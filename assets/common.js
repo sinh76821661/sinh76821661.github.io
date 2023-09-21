@@ -1,1 +1,1 @@
-document.title = querySelector(".title").textContent;
+document.title = document.querySelector(".title").textContent;

@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://sinh76821661.github.io/Nihilicm-1/css/style.css"/>
 <script src="https://sinh76821661.github.io/assets/common.js"></script>
+<h1 class="title">Nihilicm-1 -1.0: Nihilism, not license. Escape from verbal thinking.</h1>
 <div class="license">
-    <h1 class="title">Nihilicm-1 -1.0: Nihilism, not license. Escape from verbal thinking.</h1>
     <img class="license-logo" alt="logo" src="https://firebasestorage.googleapis.com/v0/b/mathlog-361213.appspot.com/o/uploads%2Fmathdown%2FgqvceW8soR94vwUoys8e.jpg?alt=media"/>
     <div class="license-title">
         Nihilicm-1 -1.0 Metaphysical (NC-1 -1.0)
@@ -24,11 +24,15 @@
 
 ## Markdown Link
 ```markdown
-[NC-1 -1.0]()
+[NC-1 -1.0](https://sinh76821661.github.io/Nihilicm-1/en)
 ```
 
 <br>
 <br>
+<details class="license-license">
+    <summary>Languages</summary>
+    [日本語](https://sinh76821661.github.io/Nihilicm-1)
+</details>
 <details class="license-license">
     <summary>License</summary>
     NC-1 -1.0
