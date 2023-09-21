@@ -4,11 +4,11 @@
 <div class="license">
     <img class="license-logo" alt="logo" src="https://firebasestorage.googleapis.com/v0/b/mathlog-361213.appspot.com/o/uploads%2Fmathdown%2FgqvceW8soR94vwUoys8e.jpg?alt=media"/>
     <div class="license-title">
-        Nihilicm-1 -1.0 形而上 (NC-1 -1.0)
+        Nihilicm-1 -1.0 形而上 (NC-1 -1.0)<br>
         ライセンスですらない虚無
     </div>
     <div class="license-main">
-        <div class="license-title-2">法的拘束力なし</div><br>
+        <div class="license-title-2">法的拘束力なし</div>
         これはライセンスとすら呼べない虚無であり、<br>
         あなたがこれが付与されたように見えるものを無許可で使用しても、<br>
         作者は恐らく訴訟しないでしょう。思考の放棄を強く推奨します。<br>
@@ -30,10 +30,9 @@
 <br>
 <br>
 <details class="license-license">
-    <summary>言語</summary>
-    [English](https://sinh76821661.github.io/Nihilicm-1/en)
-</details>
-<details class="license-license">
     <summary>ライセンス</summary>
     NC-1 -1.0
 </details>
+[English](https://sinh76821661.github.io/Nihilicm-1/en)
+<script src="https://sinh76821661.github.io/assets/common.js"></script>
+

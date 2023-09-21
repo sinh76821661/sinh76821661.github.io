@@ -1,14 +1,13 @@
 <link rel="stylesheet" href="https://sinh76821661.github.io/Nihilicm-1/css/style.css"/>
-<script src="https://sinh76821661.github.io/assets/common.js"></script>
 <h1 class="title">Nihilicm-1 -1.0: Nihilism, not license. Escape from verbal thinking.</h1>
 <div class="license">
     <img class="license-logo" alt="logo" src="https://firebasestorage.googleapis.com/v0/b/mathlog-361213.appspot.com/o/uploads%2Fmathdown%2FgqvceW8soR94vwUoys8e.jpg?alt=media"/>
     <div class="license-title">
-        Nihilicm-1 -1.0 Metaphysical (NC-1 -1.0)
+        Nihilicm-1 -1.0 Metaphysical (NC-1 -1.0)<br>
         Nihilism, not License.
     </div>
     <div class="license-main">
-        <div class="license-title-2">法的拘束力なし</div><br>
+        <div class="license-title-2">法的拘束力なし</div>
         This is nihilism, not license.<br>
         If you use the work that appears to be "licensed" under this without permission,<br>
         The author probably won't sue. I strongly recommend abandoning your thoughts.<br>
@@ -30,10 +29,8 @@
 <br>
 <br>
 <details class="license-license">
-    <summary>Languages</summary>
-    [日本語](https://sinh76821661.github.io/Nihilicm-1)
-</details>
-<details class="license-license">
     <summary>License</summary>
     NC-1 -1.0
 </details>
+[日本語](https://sinh76821661.github.io/Nihilicm-1)
+<script src="https://sinh76821661.github.io/assets/common.js"></script>
