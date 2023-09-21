@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://sinh76821661.github.io/Nihilicm-1/css/style.css"/>
 <h1 class="title">Nihilicm-1 -1.0: Nihilism, not license. Escape from verbal thinking.</h1>
 <div class="license">
+    <br><br>
     <img class="license-logo" alt="logo" src="https://firebasestorage.googleapis.com/v0/b/mathlog-361213.appspot.com/o/uploads%2Fmathdown%2FgqvceW8soR94vwUoys8e.jpg?alt=media"/>
     <div class="license-title">
         Nihilicm-1 -1.0 Metaphysical (NC-1 -1.0)<br>
@@ -34,7 +35,7 @@
 </details>
 
 <div class="lang">
-    This page is available in the following languages: <br>
+    This page is available in the following languages:<br>
     <a>English</a>,<a>日本語</a>
 </div>
 
