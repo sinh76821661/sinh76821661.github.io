@@ -35,7 +35,7 @@
 
 <div class="lang">
     このページは以下の言語でもご覧になれます:<br>
-    <a href="">English</a> <a href="">日本語</a>
+    <a>English</a> <a>日本語</a>
 </div>
 
 <script src="https://sinh76821661.github.io/assets/js/common.js"></script>
