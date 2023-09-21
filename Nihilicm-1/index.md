@@ -35,4 +35,3 @@
 </details>
 [English](https://sinh76821661.github.io/Nihilicm-1/en)
 <script src="https://sinh76821661.github.io/assets/common.js"></script>
-
