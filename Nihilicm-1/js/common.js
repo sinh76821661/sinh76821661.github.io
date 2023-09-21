@@ -1,4 +1,4 @@
-document.querySelectorAll(".lang :a").forEach(a => {
+document.querySelectorAll(".lang a").forEach(a => {
     let lang;
     switch (a.textContent) {
         case "English":
@@ -11,8 +11,4 @@ document.querySelectorAll(".lang :a").forEach(a => {
     }
     a.href = "/Nihilicm-1/" + lang;
 });
-document.querySelectorAll("span[class='sx']").forEach(span => {
-    if (span.textContent = "|hear|") {
-        span.textContent = location.href;
-    }
-});
+document.querySelectorAll("span[class='sx']").forEach(span => span.textContent = span.textContent.replace("|hear|", location.href));
