@@ -13,12 +13,12 @@
     <div class="license-main">
         <div class="license-title-2">法的拘束力なし</div><br>
         This is nihilism, not license.<br>
-        If you use the work that appears to be "licensed" under this without permission,
-        The author probably won't sue. I strongly recommend abandoning your thoughts.
-
-        It has no legal binding force. Therefore, it probably has no legal binding force.
-        This text is a poem that mimics licensing requirements, and the act of "licensing" NC-1 is metaphysical.
-        The author gives up linguistic thinking in exchange for copyright.
+        If you use the work that appears to be "licensed" under this without permission,<br>
+        The author probably won't sue. I strongly recommend abandoning your thoughts.<br>
+        <br>
+        It has no legal binding force. Therefore, it probably has no legal binding force.<br>
+        This text is a poem that mimics licensing requirements, and the act of "licensing" NC-1 is metaphysical.<br>
+        The author gives up linguistic thinking in exchange for copyright.<br>
         <br>
         <br>
     </div>

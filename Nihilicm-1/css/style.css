@@ -1,24 +1,23 @@
 .license {
     text-align: center;
     background-color: #00B0D4;
-    margin-bottom: 1em;
 }
 
 .license-main {
     background-color: #E9E9E9;
-    font-size: medium;
+    font-size: x-small;
 }
 
 .license-title {
     font-size: xx-large;
-    font-weight: 900;
+    font-weight: 400;
     color: white;
     padding: 1em;
 }
 
 .license-title-2 {
-    font-size: x-large;
-    font-weight: 900;
+    font-size: large;
+    font-weight: 400;
     padding: 1em;
 }
 
