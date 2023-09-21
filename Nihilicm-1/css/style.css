@@ -1,6 +1,7 @@
 .license {
     text-align: center;
     background-color: #00B0D4;
+    margin-top: 1em;
 }
 
 .license-main {
@@ -13,7 +14,6 @@
     font-weight: 900;
     color: white;
     padding: 1em;
-    margin-top: 1em;
 }
 
 .license-title-2 {
