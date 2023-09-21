@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://github.com/sinh76821661/sinh76821661.github.io/blob/main/Nihilicm-1/css/Nihilicm-1.css">
 <h1>Nihilicm-1 -1.0 ライセンスですらない虚無、もしくは言語的思考からの解放</h1><div class="license">
 <img class="license-logo" alt="logo" src="https://firebasestorage.googleapis.com/v0/b/mathlog-361213.appspot.com/o/uploads%2Fmathdown%2FgqvceW8soR94vwUoys8e.jpg?alt=media"/>
 <div class="license-title">Nihilicm-1 -1.0 形而上 (NC-1 -1.0)
