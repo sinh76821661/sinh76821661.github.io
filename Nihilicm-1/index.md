@@ -4,7 +4,7 @@
     <script src="https://sinh76821661.github.io/assets/common.js"></script>
 </head>
 <div class="license">
-    <h1 class="title"/>
+    <h1 class="title"></h1>
     <img class="license-logo" alt="logo" src="https://firebasestorage.googleapis.com/v0/b/mathlog-361213.appspot.com/o/uploads%2Fmathdown%2FgqvceW8soR94vwUoys8e.jpg?alt=media"/>
     <div class="license-title">
         Nihilicm-1 -1.0 形而上 (NC-1 -1.0)
