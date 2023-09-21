@@ -32,5 +32,10 @@
     <summary>License</summary>
     NC-1 -1.0
 </details>
-[日本語](https://sinh76821661.github.io/Nihilicm-1)
-<script src="https://sinh76821661.github.io/assets/common.js"></script>
+
+<div class="lang">
+    This page is available in the following languages: <br>
+    <a>English</a>,<a>日本語</a>
+</div>
+
+<script src="https://sinh76821661.github.io/assets/js/common.js"></script>
