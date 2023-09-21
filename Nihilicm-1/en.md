@@ -16,8 +16,7 @@
         It has no legal binding force. Therefore, it probably has no legal binding force.<br>
         This text is a poem that mimics licensing requirements, and the act of "licensing" NC-1 is metaphysical.<br>
         The author gives up linguistic thinking in exchange for copyright.<br>
-        <br>
-        <br>
+        <br><br><br>
     </div>
 </div>
 <br>
