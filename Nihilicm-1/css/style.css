@@ -6,17 +6,18 @@
 
 .license-main {
     background-color: #E9E9E9;
+    font-size: medium;
     padding: 1em;
 }
 
 .license-title {
-    font-size: 2em;
+    font-size: 1em;
     font-weight: 900;
     color: white;
 }
 
 .license-title-2 {
-    font-size: 1.9em;
+    font-size: 0.8em;
     font-weight: 900;
 }
 
