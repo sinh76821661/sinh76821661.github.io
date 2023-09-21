@@ -7,7 +7,7 @@
         Nihilism, not License.
     </div>
     <div class="license-main">
-        <div class="license-title-2">法的拘束力なし</div>
+        <div class="license-title-2">No Legal Binding</div>
         This is nihilism, not license.<br>
         If you use the work that appears to be "licensed" under this without permission,<br>
         The author probably won't sue. I strongly recommend abandoning your thoughts.<br>
