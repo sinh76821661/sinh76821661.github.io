@@ -36,7 +36,7 @@
 
 <div class="lang">
     This page is available in the following languages:<br>
-    <a>English</a>,<a>日本語</a>
+    <a>English</a> <a>日本語</a>
 </div>
 
 <script src="https://sinh76821661.github.io/assets/js/common.js"></script>
