@@ -1,1 +1,1 @@
-querySelectAll(".title").forEach(e => e.textContent = document.title);
+document.title = querySelector(".title").textContent;

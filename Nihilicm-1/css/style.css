@@ -5,19 +5,19 @@
 
 .license-main {
     background-color: #E9E9E9;
-    font-size: x-small;
+    font-size: medium;
 }
 
 .license-title {
     font-size: xx-large;
-    font-weight: 400;
+    font-weight: 900;
     color: white;
     padding: 1em;
 }
 
 .license-title-2 {
     font-size: large;
-    font-weight: 400;
+    font-weight: 900;
     padding: 1em;
 }
 
