@@ -1,5 +1,7 @@
+<script src="https://sinh76821661.github.io/assets/js/common.js"></script>
 <link rel="stylesheet" href="https://sinh76821661.github.io/Nihilicm-1/css/style.css"/>
-<h1 class="title">Nihilicm-1 -1.0: Nihilism, not license. Escape from verbal thinking.</h1>
+<link rel="icon" href="https://sinh76821661.github.io/assets/images/NC-1-32.ico">
+<h1 id="title">Nihilicm-1 -1.0: Nihilism, not license. Escape from verbal thinking.</h1>
 <div class="license">
     <br><br>
     <img class="license-logo" alt="logo" src="https://sinh76821661.github.io/assets/images/NC-1.jpg"/>
@@ -38,5 +40,4 @@
     <a>English</a> <a>日本語</a>
 </div>
 
-<script src="https://sinh76821661.github.io/assets/js/common.js"></script>
 <script src="https://sinh76821661.github.io/Nihilicm-1/js/common.js"></script>

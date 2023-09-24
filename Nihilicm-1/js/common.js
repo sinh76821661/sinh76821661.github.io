@@ -9,6 +9,7 @@ document.querySelectorAll(".lang a").forEach(a => {
             lang = "";
             break;
     }
-    a.href = "/Nihilicm-1/" + lang;
+    const pathname = location.pathname;
+    a.href = pathname.substring(0, pathname.lastIndexOf("/") + 1) + lang;
 });
 document.querySelectorAll("span[class='sx']").forEach(span => span.textContent = span.textContent.replace("|hear|", location.href));
