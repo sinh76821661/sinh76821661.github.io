@@ -1,7 +1,7 @@
 document.head.innerHTML += `
 <link rel="stylesheet" href="https://sinh76821661.github.io/Nihilicm-1/css/style.css">
-<link rel="icon" type="image/svg+xml" href="https://sinh76821661.github.io/assets/images/NC-1.svg">
-<link rel="apple-touch-icon" href="https://sinh76821661.github.io/assets/images/NC-1-ati.png">`;
+<link rel="icon" type="image/svg+xml" href="https://sinh76821661.github.io/assets/images/NC-1-favicon.ico">
+<link rel="apple-touch-icon" href="https://sinh76821661.github.io/assets/images/NC-1-t-180.png">`;
 addEventListener("load", () => {
     document.querySelectorAll(".lang a").forEach(a => {
         let lang;
