@@ -1,6 +1,5 @@
 <script src="https://sinh76821661.github.io/assets/js/common.js"></script>
-<link rel="stylesheet" href="https://sinh76821661.github.io/Nihilicm-1/css/style.css"/>
-<link rel="icon" href="https://sinh76821661.github.io/assets/images/NC-1-32.ico">
+<script src="https://sinh76821661.github.io/Nihilicm-1/js/common.js"></script>
 <h1 id="title">Nihilicm-1 -1.0 ライセンスですらない虚無、もしくは言語的思考からの解放</h1>
 <div class="license">
     <br><br>
@@ -39,5 +38,3 @@
     このページは以下の言語でもご覧になれます:<br>
     <a>English</a> <a>日本語</a>
 </div>
-
-<script src="https://sinh76821661.github.io/Nihilicm-1/js/common.js"></script>
